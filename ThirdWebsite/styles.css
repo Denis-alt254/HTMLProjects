@@ -55,3 +55,17 @@
     background-image: linear-gradient(45deg, #df4881, #c430d7);
     border-top-right-radius: 0;
 }
+h1{
+    margin-left:70px;
+}
+h3{
+    margin-left:70px;
+    color: rgb(71, 178, 71);
+}
+pre ul li{
+    margin-left: 50px;
+    font-size: 16px;
+}
+pre{
+    font-size: 16px;
+}
